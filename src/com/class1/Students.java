@@ -3,9 +3,10 @@ package com.class1;
 import java.util.Scanner;
 
 public class Students {
-    int id;
+
     String name;
     String email;
+    int id;
 
     public  void inputStudent(){
         Scanner input = new Scanner(System.in);
